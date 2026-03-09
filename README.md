@@ -1,4 +1,7 @@
 # Maryland Workforce AI Impact Analysis
+
+> **Disclaimer:** This repository is intended as an investigation into using AI as a research tool, and is presented for educational purposes. The results do not reflect the administration position.
+
 A preliminary investigation into how AI might affect Maryland's workforce along BLS occupation codes
 
 ## Methodology
