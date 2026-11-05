@@ -169,6 +169,7 @@ From the `python` directory:
 ./venv-linux/bin/python generate_tasks.py -m claude        # daily tasks per occupation
 ./venv-linux/bin/python rate_tasks.py -m claude            # 1-5 AI exposure ratings
 ./venv-linux/bin/python process_output.py                  # aggregates, charts, README stats
+./venv-linux/bin/python export_occupation_labels.py        # Maryland occupation labels CSV
 ```
 `-m` accepts `claude` (default), `gemini`, or `gpt`. `-w N` sets the number of concurrent requests (defaults: 64 for Claude, 16 for GPT, 1 for the Gemini free tier). Model IDs and reasoning effort can be overridden in `.env` (see `.env-example`).
 
