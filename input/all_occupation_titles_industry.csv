@@ -1,7 +1,6 @@
 occupation_title,industry_classification
 Chief Executives,None of the above
 General and Operations Managers,None of the above
-Legislators,None of the above
 Advertising and Promotions Managers,None of the above
 Marketing Managers,None of the above
 Sales Managers,None of the above
@@ -27,11 +26,10 @@ Food Service Managers,None of the above
 "Entertainment and Recreation Managers, Except Gambling",None of the above
 Lodging Managers,None of the above
 Medical and Health Services Managers,Life Sciences
-Natural Sciences Managers,None of the above
+Natural Sciences Managers,Life Sciences
 Postmasters and Mail Superintendents,None of the above
 "Property, Real Estate, and Community Association Managers",None of the above
 Social and Community Service Managers,None of the above
-Emergency Management Directors,None of the above
 Funeral Home Managers,None of the above
 "Managers, All Other",None of the above
 Buyers and Purchasing Agents,None of the above
@@ -57,7 +55,6 @@ Financial and Investment Analysts,None of the above
 Personal Financial Advisors,None of the above
 Insurance Underwriters,None of the above
 Financial Risk Specialists,None of the above
-Financial Examiners,None of the above
 Credit Counselors,None of the above
 Loan Officers,None of the above
 "Tax Examiners and Collectors, and Revenue Agents",None of the above
@@ -79,47 +76,47 @@ Web Developers,Information Technology
 Web and Digital Interface Designers,Information Technology
 "Computer Occupations, All Other",Information Technology
 Actuaries,None of the above
-Operations Research Analysts,Information Technology
+Operations Research Analysts,None of the above
 Statisticians,None of the above
-Data Scientists,Information Technology
-"Mathematical Science Occupations, All Other",None of the above
+Data Scientists,Artificial Intelligence
 "Architects, Except Landscape and Naval",None of the above
 Landscape Architects,None of the above
-Cartographers and Photogrammetrists,None of the above
 Surveyors,None of the above
 Aerospace Engineers,Aerospace and Defense
+Bioengineers and Biomedical Engineers,Bio-tech
 Chemical Engineers,None of the above
 Civil Engineers,None of the above
 Computer Hardware Engineers,Information Technology
-Electrical Engineers,None of the above
+Electrical Engineers,Clean Energy
 "Electronics Engineers, Except Computer",None of the above
 Environmental Engineers,Clean Energy
 "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",None of the above
 Industrial Engineers,None of the above
-Marine Engineers and Naval Architects,None of the above
-Materials Engineers,None of the above
-Mechanical Engineers,None of the above
+Materials Engineers,Aerospace and Defense
+Mechanical Engineers,Aerospace and Defense
 "Mining and Geological Engineers, Including Mining Safety Engineers",None of the above
-Nuclear Engineers,None of the above
+Nuclear Engineers,Clean Energy
+Petroleum Engineers,Clean Energy
 "Engineers, All Other",None of the above
 Architectural and Civil Drafters,None of the above
 Electrical and Electronics Drafters,None of the above
-Mechanical Drafters,None of the above
+Mechanical Drafters,Aerospace and Defense
+"Drafters, All Other",None of the above
 Aerospace Engineering and Operations Technologists and Technicians,Aerospace and Defense
 Civil Engineering Technologists and Technicians,None of the above
-Electrical and Electronic Engineering Technologists and Technicians,None of the above
+Electrical and Electronic Engineering Technologists and Technicians,Clean Energy
 Electro-Mechanical and Mechatronics Technologists and Technicians,None of the above
 Environmental Engineering Technologists and Technicians,Clean Energy
 Industrial Engineering Technologists and Technicians,None of the above
-Mechanical Engineering Technologists and Technicians,None of the above
-"Engineering Technologists and Technicians, Except Drafters, All Other",None of the above
+Mechanical Engineering Technologists and Technicians,Aerospace and Defense
+"Engineering Technologists and Technicians, Except Drafters, All Other",Aerospace and Defense
 Surveying and Mapping Technicians,None of the above
 Food Scientists and Technologists,Life Sciences
 Soil and Plant Scientists,Life Sciences
 Biochemists and Biophysicists,Life Sciences
 Microbiologists,Life Sciences
 Zoologists and Wildlife Biologists,Life Sciences
-"Biological Scientists, All Other",Life Sciences
+"Biological Scientists, All Other",Bio-tech
 Conservation Scientists,None of the above
 Foresters,None of the above
 Epidemiologists,Life Sciences
@@ -129,22 +126,23 @@ Physicists,None of the above
 Atmospheric and Space Scientists,Aerospace and Defense
 Chemists,Life Sciences
 "Environmental Scientists and Specialists, Including Health",None of the above
-"Geoscientists, Except Hydrologists and Geographers",None of the above
-Hydrologists,None of the above
+"Geoscientists, Except Hydrologists and Geographers",Clean Energy
 "Physical Scientists, All Other",None of the above
 Economists,None of the above
-Clinical and Counseling Psychologists,None of the above
+Clinical and Counseling Psychologists,Life Sciences
 School Psychologists,None of the above
 "Psychologists, All Other",None of the above
 Urban and Regional Planners,None of the above
 Anthropologists and Archeologists,None of the above
+Historians,None of the above
 "Social Scientists and Related Workers, All Other",None of the above
-Agricultural Technicians,None of the above
-Biological Technicians,Bio-tech
-Chemical Technicians,None of the above
-"Environmental Science and Protection Technicians, Including Health",Clean Energy
+Food Science Technicians,Life Sciences
+Biological Technicians,Life Sciences
+Chemical Technicians,Life Sciences
+"Environmental Science and Protection Technicians, Including Health",None of the above
 "Geological Technicians, Except Hydrologic Technicians",None of the above
-Nuclear Technicians,None of the above
+Nuclear Technicians,Clean Energy
+Social Science Research Assistants,None of the above
 Forest and Conservation Technicians,None of the above
 Forensic Science Technicians,None of the above
 "Life, Physical, and Social Science Technicians, All Other",None of the above
@@ -154,6 +152,7 @@ Occupational Health and Safety Technicians,None of the above
 Marriage and Family Therapists,None of the above
 Rehabilitation Counselors,None of the above
 "Substance Abuse, Behavioral Disorder, and Mental Health Counselors",None of the above
+"Counselors, All Other",None of the above
 "Child, Family, and School Social Workers",None of the above
 Healthcare Social Workers,Life Sciences
 Mental Health and Substance Abuse Social Workers,None of the above
@@ -167,28 +166,29 @@ Clergy,None of the above
 "Directors, Religious Activities and Education",None of the above
 Lawyers,None of the above
 "Administrative Law Judges, Adjudicators, and Hearing Officers",None of the above
+"Arbitrators, Mediators, and Conciliators",None of the above
 "Judges, Magistrate Judges, and Magistrates",None of the above
 Paralegals and Legal Assistants,None of the above
 "Title Examiners, Abstractors, and Searchers",None of the above
-"Legal Support Workers, All Other",None of the above
 "Business Teachers, Postsecondary",None of the above
-"Computer Science Teachers, Postsecondary",None of the above
+"Computer Science Teachers, Postsecondary",Information Technology
 "Mathematical Science Teachers, Postsecondary",None of the above
 "Architecture Teachers, Postsecondary",None of the above
 "Engineering Teachers, Postsecondary",None of the above
-"Agricultural Sciences Teachers, Postsecondary",None of the above
+"Agricultural Sciences Teachers, Postsecondary",Life Sciences
 "Biological Science Teachers, Postsecondary",Life Sciences
+"Forestry and Conservation Science Teachers, Postsecondary",None of the above
 "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",None of the above
 "Chemistry Teachers, Postsecondary",None of the above
 "Environmental Science Teachers, Postsecondary",None of the above
 "Physics Teachers, Postsecondary",None of the above
-"Anthropology and Archeology Teachers, Postsecondary",None of the above
 "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",None of the above
 "Economics Teachers, Postsecondary",None of the above
 "Political Science Teachers, Postsecondary",None of the above
 "Psychology Teachers, Postsecondary",None of the above
 "Sociology Teachers, Postsecondary",None of the above
-"Nursing Instructors and Teachers, Postsecondary",Life Sciences
+"Health Specialties Teachers, Postsecondary",Life Sciences
+"Nursing Instructors and Teachers, Postsecondary",None of the above
 "Education Teachers, Postsecondary",None of the above
 "Library Science Teachers, Postsecondary",None of the above
 "Criminal Justice and Law Enforcement Teachers, Postsecondary",None of the above
@@ -211,7 +211,6 @@ Paralegals and Legal Assistants,None of the above
 "Career/Technical Education Teachers, Middle School",None of the above
 "Secondary School Teachers, Except Special and Career/Technical Education",None of the above
 "Career/Technical Education Teachers, Secondary School",None of the above
-"Special Education Teachers, Preschool",None of the above
 "Special Education Teachers, Kindergarten and Elementary School",None of the above
 "Special Education Teachers, Middle School",None of the above
 "Special Education Teachers, Secondary School",None of the above
@@ -239,44 +238,43 @@ Floral Designers,None of the above
 Graphic Designers,None of the above
 Interior Designers,None of the above
 Merchandise Displayers and Window Trimmers,None of the above
-Set and Exhibit Designers,None of the above
+Actors,None of the above
 Producers and Directors,None of the above
 Athletes and Sports Competitors,None of the above
 Coaches and Scouts,None of the above
+Choreographers,None of the above
 Music Directors and Composers,None of the above
 Musicians and Singers,None of the above
 Broadcast Announcers and Radio Disc Jockeys,None of the above
 "News Analysts, Reporters, and Journalists",None of the above
 Public Relations Specialists,None of the above
 Editors,None of the above
-Technical Writers,None of the above
+Technical Writers,Information Technology
 Writers and Authors,None of the above
 Interpreters and Translators,None of the above
 Court Reporters and Simultaneous Captioners,None of the above
 Audio and Video Technicians,None of the above
 Broadcast Technicians,None of the above
-Sound Engineering Technicians,None of the above
 Photographers,None of the above
 "Camera Operators, Television, Video, and Film",None of the above
 Film and Video Editors,None of the above
-"Media and Communication Equipment Workers, All Other",None of the above
-Chiropractors,None of the above
-"Dentists, General",Life Sciences
-Orthodontists,None of the above
-"Dentists, All Other Specialists",None of the above
+"Media and Communication Equipment Workers, All Other",Information Technology
+Chiropractors,Life Sciences
+Oral and Maxillofacial Surgeons,Life Sciences
+Orthodontists,Life Sciences
 Dietitians and Nutritionists,Life Sciences
 Optometrists,Life Sciences
 Pharmacists,Life Sciences
 Physician Assistants,Life Sciences
 Podiatrists,Life Sciences
-Occupational Therapists,None of the above
-Physical Therapists,None of the above
+Occupational Therapists,Life Sciences
+Physical Therapists,Life Sciences
 Radiation Therapists,Life Sciences
-Recreational Therapists,None of the above
+Recreational Therapists,Life Sciences
 Respiratory Therapists,Life Sciences
 Speech-Language Pathologists,Life Sciences
 Exercise Physiologists,Life Sciences
-"Therapists, All Other",None of the above
+"Therapists, All Other",Life Sciences
 Veterinarians,Life Sciences
 Registered Nurses,Life Sciences
 Nurse Anesthetists,Life Sciences
@@ -285,19 +283,16 @@ Audiologists,Life Sciences
 Anesthesiologists,Life Sciences
 Cardiologists,Life Sciences
 Dermatologists,Life Sciences
+Emergency Medicine Physicians,Life Sciences
 Family Medicine Physicians,Life Sciences
-Neurologists,Life Sciences
+General Internal Medicine Physicians,Life Sciences
 Obstetricians and Gynecologists,Life Sciences
 "Pediatricians, General",Life Sciences
-"Physicians, Pathologists",Life Sciences
-Psychiatrists,Life Sciences
-Radiologists,Life Sciences
 "Physicians, All Other",Life Sciences
 "Ophthalmologists, Except Pediatric",Life Sciences
 "Orthopedic Surgeons, Except Pediatric",Life Sciences
 "Surgeons, All Other",Life Sciences
 Dental Hygienists,Life Sciences
-"Healthcare Diagnosing or Treating Practitioners, All Other",Life Sciences
 Clinical Laboratory Technologists and Technicians,Life Sciences
 Cardiovascular Technologists and Technicians,Life Sciences
 Diagnostic Medical Sonographers,Life Sciences
@@ -306,42 +301,40 @@ Radiologic Technologists and Technicians,Life Sciences
 Magnetic Resonance Imaging Technologists,Life Sciences
 Emergency Medical Technicians,Life Sciences
 Paramedics,None of the above
-Dietetic Technicians,Life Sciences
 Pharmacy Technicians,Life Sciences
-Psychiatric Technicians,None of the above
+Psychiatric Technicians,Life Sciences
 Surgical Technologists,Life Sciences
 Veterinary Technologists and Technicians,Life Sciences
 Ophthalmic Medical Technicians,Life Sciences
 Licensed Practical and Licensed Vocational Nurses,Life Sciences
-Medical Records Specialists,Life Sciences
-"Opticians, Dispensing",Life Sciences
+Medical Records Specialists,None of the above
+"Opticians, Dispensing",None of the above
 Orthotists and Prosthetists,Life Sciences
 Hearing Aid Specialists,Life Sciences
 "Health Technologists and Technicians, All Other",Life Sciences
-Health Information Technologists and Medical Registrars,Life Sciences
-Athletic Trainers,None of the above
+Athletic Trainers,Life Sciences
 Surgical Assistants,Life Sciences
 "Healthcare Practitioners and Technical Workers, All Other",Life Sciences
 Home Health and Personal Care Aides,None of the above
 Nursing Assistants,Life Sciences
-Orderlies,None of the above
-Psychiatric Aides,None of the above
-Occupational Therapy Assistants,None of the above
+Orderlies,Life Sciences
+Psychiatric Aides,Life Sciences
+Occupational Therapy Assistants,Life Sciences
 Physical Therapist Assistants,Life Sciences
-Physical Therapist Aides,None of the above
+Physical Therapist Aides,Life Sciences
 Massage Therapists,None of the above
 Dental Assistants,Life Sciences
 Medical Assistants,Life Sciences
 Medical Equipment Preparers,Life Sciences
-Medical Transcriptionists,None of the above
+Medical Transcriptionists,Life Sciences
 Pharmacy Aides,Life Sciences
-Veterinary Assistants and Laboratory Animal Caretakers,Life Sciences
+Veterinary Assistants and Laboratory Animal Caretakers,None of the above
 Phlebotomists,Life Sciences
 "Healthcare Support Workers, All Other",Life Sciences
 First-Line Supervisors of Correctional Officers,None of the above
 First-Line Supervisors of Police and Detectives,None of the above
-First-Line Supervisors of Firefighting and Prevention Workers,None of the above
-First-Line Supervisors of Security Workers,None of the above
+First-Line Supervisors of Firefighting and Prevention Workers,Aerospace and Defense
+First-Line Supervisors of Security Workers,Aerospace and Defense
 "First-Line Supervisors of Protective Service Workers, All Other",None of the above
 Firefighters,None of the above
 Fire Inspectors and Investigators,None of the above
@@ -358,15 +351,15 @@ Gambling Surveillance Officers and Gambling Investigators,None of the above
 Security Guards,None of the above
 Crossing Guards and Flaggers,None of the above
 "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",None of the above
-Transportation Security Screeners,None of the above
+Transportation Security Screeners,Aerospace and Defense
 School Bus Monitors,None of the above
+"Protective Service Workers, All Other",None of the above
 Chefs and Head Cooks,None of the above
 First-Line Supervisors of Food Preparation and Serving Workers,None of the above
 "Cooks, Fast Food",None of the above
 "Cooks, Institution and Cafeteria",None of the above
 "Cooks, Restaurant",None of the above
 "Cooks, Short Order",None of the above
-"Cooks, All Other",None of the above
 Food Preparation Workers,None of the above
 Bartenders,None of the above
 Fast Food and Counter Workers,None of the above
@@ -384,15 +377,17 @@ Pest Control Workers,None of the above
 Landscaping and Groundskeeping Workers,None of the above
 "Pesticide Handlers, Sprayers, and Applicators, Vegetation",None of the above
 Tree Trimmers and Pruners,None of the above
+"Grounds Maintenance Workers, All Other",None of the above
 First-Line Supervisors of Gambling Services Workers,None of the above
 "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",None of the above
 First-Line Supervisors of Personal Service Workers,None of the above
 Animal Trainers,None of the above
 Animal Caretakers,None of the above
-"Gambling Service Workers, All Other",None of the above
 "Ushers, Lobby Attendants, and Ticket Takers",None of the above
 Amusement and Recreation Attendants,None of the above
+Costume Attendants,None of the above
 "Locker Room, Coatroom, and Dressing Room Attendants",None of the above
+"Entertainment Attendants and Related Workers, All Other",None of the above
 Embalmers,None of the above
 Crematory Operators,None of the above
 Funeral Attendants,None of the above
@@ -401,7 +396,7 @@ Barbers,None of the above
 "Hairdressers, Hairstylists, and Cosmetologists",None of the above
 Manicurists and Pedicurists,None of the above
 Shampooers,None of the above
-Skincare Specialists,None of the above
+Skincare Specialists,Life Sciences
 Baggage Porters and Bellhops,None of the above
 Concierges,None of the above
 Tour and Travel Guides,None of the above
@@ -439,7 +434,6 @@ Procurement Clerks,None of the above
 Tellers,None of the above
 "Financial Clerks, All Other",None of the above
 Brokerage Clerks,None of the above
-Correspondence Clerks,None of the above
 "Court, Municipal, and License Clerks",None of the above
 "Credit Authorizers, Checkers, and Clerks",None of the above
 Customer Service Representatives,None of the above
@@ -455,11 +449,11 @@ Order Clerks,None of the above
 Receptionists and Information Clerks,None of the above
 Reservation and Transportation Ticket Agents and Travel Clerks,None of the above
 "Information and Record Clerks, All Other",None of the above
-Cargo and Freight Agents,None of the above
+Cargo and Freight Agents,Aerospace and Defense
 Couriers and Messengers,None of the above
 Public Safety Telecommunicators,None of the above
 "Dispatchers, Except Police, Fire, and Ambulance",None of the above
-"Meter Readers, Utilities",None of the above
+"Meter Readers, Utilities",Clean Energy
 Postal Service Clerks,None of the above
 Postal Service Mail Carriers,None of the above
 "Postal Service Mail Sorters, Processors, and Processing Machine Operators",None of the above
@@ -470,15 +464,15 @@ Executive Secretaries and Executive Administrative Assistants,None of the above
 Legal Secretaries and Administrative Assistants,None of the above
 Medical Secretaries and Administrative Assistants,None of the above
 "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",None of the above
-Data Entry Keyers,None of the above
-Word Processors and Typists,None of the above
-Desktop Publishers,None of the above
+Data Entry Keyers,Information Technology
+Word Processors and Typists,Information Technology
 Insurance Claims and Policy Processing Clerks,None of the above
 "Mail Clerks and Mail Machine Operators, Except Postal Service",None of the above
 "Office Clerks, General",None of the above
-"Office Machine Operators, Except Computer",None of the above
 "Office and Administrative Support Workers, All Other",None of the above
 "First-Line Supervisors of Farming, Fishing, and Forestry Workers",None of the above
+Agricultural Inspectors,None of the above
+Animal Breeders,Life Sciences
 "Graders and Sorters, Agricultural Products",None of the above
 Agricultural Equipment Operators,None of the above
 "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",None of the above
@@ -486,10 +480,10 @@ Agricultural Equipment Operators,None of the above
 Fallers,None of the above
 Logging Equipment Operators,None of the above
 Log Graders and Scalers,None of the above
-"Logging Workers, All Other",None of the above
 First-Line Supervisors of Construction Trades and Extraction Workers,None of the above
 Boilermakers,None of the above
 Brickmasons and Blockmasons,None of the above
+Stonemasons,None of the above
 Carpenters,None of the above
 Carpet Installers,None of the above
 "Floor Layers, Except Carpet, Wood, and Hard Tiles",None of the above
@@ -499,12 +493,11 @@ Construction Laborers,None of the above
 "Paving, Surfacing, and Tamping Equipment Operators",None of the above
 Operating Engineers and Other Construction Equipment Operators,None of the above
 Drywall and Ceiling Tile Installers,None of the above
-Electricians,None of the above
+Electricians,Clean Energy
 Glaziers,None of the above
 "Insulation Workers, Floor, Ceiling, and Wall",None of the above
 "Insulation Workers, Mechanical",None of the above
 "Painters, Construction and Maintenance",None of the above
-Paperhangers,None of the above
 Pipelayers,None of the above
 "Plumbers, Pipefitters, and Steamfitters",None of the above
 Reinforcing Iron and Rebar Workers,None of the above
@@ -514,33 +507,34 @@ Structural Iron and Steel Workers,None of the above
 "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",None of the above
 Helpers--Carpenters,None of the above
 Helpers--Electricians,None of the above
-"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",None of the above
 "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",None of the above
 Helpers--Roofers,None of the above
-"Helpers, Construction Trades, All Other",None of the above
 Construction and Building Inspectors,None of the above
 Elevator and Escalator Installers and Repairers,None of the above
 Fence Erectors,None of the above
 Hazardous Materials Removal Workers,None of the above
 Highway Maintenance Workers,None of the above
-Rail-Track Laying and Maintenance Equipment Operators,None of the above
 Septic Tank Servicers and Sewer Pipe Cleaners,None of the above
-"Service Unit Operators, Oil and Gas",None of the above
+"Derrick Operators, Oil and Gas",None of the above
+"Rotary Drill Operators, Oil and Gas",None of the above
+"Service Unit Operators, Oil and Gas",Clean Energy
 "Excavating and Loading Machine and Dragline Operators, Surface Mining",None of the above
 "Earth Drillers, Except Oil and Gas",None of the above
 "Explosives Workers, Ordnance Handling Experts, and Blasters",Aerospace and Defense
 Continuous Mining Machine Operators,None of the above
+"Roof Bolters, Mining",None of the above
+"Loading and Moving Machine Operators, Underground Mining",None of the above
 "Roustabouts, Oil and Gas",None of the above
 "First-Line Supervisors of Mechanics, Installers, and Repairers",None of the above
 "Computer, Automated Teller, and Office Machine Repairers",Information Technology
-"Radio, Cellular, and Tower Equipment Installers and Repairers",None of the above
 "Telecommunications Equipment Installers and Repairers, Except Line Installers",Information Technology
 Avionics Technicians,Aerospace and Defense
 "Electric Motor, Power Tool, and Related Repairers",None of the above
-"Electrical and Electronics Installers and Repairers, Transportation Equipment",None of the above
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",Aerospace and Defense
 "Electrical and Electronics Repairers, Commercial and Industrial Equipment",None of the above
-"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",None of the above
-Audiovisual Equipment Installers and Repairers,None of the above
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",Clean Energy
+"Electronic Equipment Installers and Repairers, Motor Vehicles",None of the above
+Audiovisual Equipment Installers and Repairers,Information Technology
 Security and Fire Alarm Systems Installers,None of the above
 Aircraft Mechanics and Service Technicians,Aerospace and Defense
 Automotive Body and Related Repairers,None of the above
@@ -553,7 +547,6 @@ Rail Car Repairers,None of the above
 Motorboat Mechanics and Service Technicians,None of the above
 Motorcycle Mechanics,None of the above
 Outdoor Power Equipment and Other Small Engine Mechanics,None of the above
-Bicycle Repairers,None of the above
 Recreational Vehicle Service Technicians,None of the above
 Tire Repairers and Changers,None of the above
 Mechanical Door Repairers,None of the above
@@ -561,34 +554,33 @@ Mechanical Door Repairers,None of the above
 "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",None of the above
 Home Appliance Repairers,None of the above
 Industrial Machinery Mechanics,None of the above
-"Maintenance Workers, Machinery",None of the above
+"Maintenance Workers, Machinery",Aerospace and Defense
 Millwrights,None of the above
 "Refractory Materials Repairers, Except Brickmasons",None of the above
 Electrical Power-Line Installers and Repairers,Clean Energy
-Telecommunications Line Installers and Repairers,None of the above
+Telecommunications Line Installers and Repairers,Information Technology
 Medical Equipment Repairers,Life Sciences
 Musical Instrument Repairers and Tuners,None of the above
-Watch and Clock Repairers,None of the above
-"Precision Instrument and Equipment Repairers, All Other",None of the above
+"Precision Instrument and Equipment Repairers, All Other",Aerospace and Defense
 "Maintenance and Repair Workers, General",None of the above
 "Coin, Vending, and Amusement Machine Servicers and Repairers",None of the above
 Locksmiths and Safe Repairers,None of the above
 Manufactured Building and Mobile Home Installers,None of the above
-Riggers,None of the above
+Riggers,Aerospace and Defense
 "Helpers--Installation, Maintenance, and Repair Workers",None of the above
 "Installation, Maintenance, and Repair Workers, All Other",None of the above
 First-Line Supervisors of Production and Operating Workers,None of the above
 "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",Aerospace and Defense
 "Coil Winders, Tapers, and Finishers",None of the above
 "Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",None of the above
-Structural Metal Fabricators and Fitters,None of the above
+Engine and Other Machine Assemblers,None of the above
+Structural Metal Fabricators and Fitters,Aerospace and Defense
 Fiberglass Laminators and Fabricators,None of the above
 Miscellaneous Assemblers and Fabricators,None of the above
 Bakers,None of the above
 Butchers and Meat Cutters,None of the above
 "Meat, Poultry, and Fish Cutters and Trimmers",None of the above
 Slaughterers and Meat Packers,None of the above
-"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",None of the above
 Food Batchmakers,None of the above
 Food Cooking Machine Operators and Tenders,None of the above
 "Food Processing Workers, All Other",None of the above
@@ -600,7 +592,7 @@ Food Cooking Machine Operators and Tenders,None of the above
 "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",None of the above
 "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",None of the above
 "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",None of the above
-Machinists,None of the above
+Machinists,Aerospace and Defense
 Metal-Refining Furnace Operators and Tenders,None of the above
 "Pourers and Casters, Metal",None of the above
 "Patternmakers, Metal and Plastic",None of the above
@@ -608,8 +600,8 @@ Foundry Mold and Coremakers,None of the above
 "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",None of the above
 "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",None of the above
 Tool and Die Makers,None of the above
-"Welders, Cutters, Solderers, and Brazers",None of the above
-"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",None of the above
+"Welders, Cutters, Solderers, and Brazers",Aerospace and Defense
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",Aerospace and Defense
 "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",None of the above
 "Layout Workers, Metal and Plastic",None of the above
 "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",None of the above
@@ -621,7 +613,7 @@ Print Binding and Finishing Workers,None of the above
 Laundry and Dry-Cleaning Workers,None of the above
 "Pressers, Textile, Garment, and Related Materials",None of the above
 Sewing Machine Operators,None of the above
-"Sewers, Hand",None of the above
+Shoe and Leather Workers and Repairers,None of the above
 "Tailors, Dressmakers, and Custom Sewers",None of the above
 Textile Bleaching and Dyeing Machine Operators and Tenders,None of the above
 "Textile Cutting Machine Setters, Operators, and Tenders",None of the above
@@ -638,14 +630,14 @@ Furniture Finishers,None of the above
 Nuclear Power Reactor Operators,Clean Energy
 Power Distributors and Dispatchers,Clean Energy
 Power Plant Operators,Clean Energy
-Stationary Engineers and Boiler Operators,None of the above
+Stationary Engineers and Boiler Operators,Clean Energy
 Water and Wastewater Treatment Plant and System Operators,None of the above
 Chemical Plant and System Operators,None of the above
-Gas Plant Operators,None of the above
+Gas Plant Operators,Clean Energy
 "Petroleum Pump System Operators, Refinery Operators, and Gaugers",None of the above
 "Plant and System Operators, All Other",None of the above
 Chemical Equipment Operators and Tenders,None of the above
-"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",Life Sciences
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",None of the above
 "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",None of the above
 "Grinding and Polishing Workers, Hand",None of the above
 "Mixing and Blending Machine Setters, Operators, and Tenders",None of the above
@@ -656,9 +648,8 @@ Chemical Equipment Operators and Tenders,None of the above
 "Inspectors, Testers, Sorters, Samplers, and Weighers",None of the above
 Jewelers and Precious Stone and Metal Workers,None of the above
 Dental Laboratory Technicians,None of the above
-Ophthalmic Laboratory Technicians,Life Sciences
+Ophthalmic Laboratory Technicians,None of the above
 Packaging and Filling Machine Operators and Tenders,None of the above
-"Painting, Coating, and Decorating Workers",None of the above
 "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",None of the above
 Photographic Process Workers and Processing Machine Operators,None of the above
 Computer Numerically Controlled Tool Operators,None of the above
@@ -669,7 +660,6 @@ Cooling and Freezing Equipment Operators and Tenders,None of the above
 Etchers and Engravers,None of the above
 "Molders, Shapers, and Casters, Except Metal and Plastic",None of the above
 "Paper Goods Machine Setters, Operators, and Tenders",None of the above
-Tire Builders,None of the above
 Helpers--Production Workers,None of the above
 "Production Workers, All Other",None of the above
 Aircraft Cargo Handling Supervisors,Aerospace and Defense
@@ -689,20 +679,18 @@ Shuttle Drivers and Chauffeurs,None of the above
 Locomotive Engineers,None of the above
 "Rail Yard Engineers, Dinkey Operators, and Hostlers",None of the above
 "Railroad Brake, Signal, and Switch Operators and Locomotive Firers",None of the above
-Sailors and Marine Oilers,None of the above
+Sailors and Marine Oilers,Aerospace and Defense
 "Captains, Mates, and Pilots of Water Vessels",None of the above
-Motorboat Operators,None of the above
 Ship Engineers,Aerospace and Defense
 Bridge and Lock Tenders,None of the above
 Parking Attendants,None of the above
 Automotive and Watercraft Service Attendants,None of the above
 Aircraft Service Attendants,Aerospace and Defense
 Traffic Technicians,None of the above
-Transportation Inspectors,None of the above
+Transportation Inspectors,Aerospace and Defense
 Conveyor Operators and Tenders,None of the above
 Crane and Tower Operators,None of the above
 Dredge Operators,None of the above
-Hoist and Winch Operators,None of the above
 Industrial Truck and Tractor Operators,None of the above
 Cleaners of Vehicles and Equipment,None of the above
 "Laborers and Freight, Stock, and Material Movers, Hand",None of the above
@@ -714,118 +702,129 @@ Gas Compressor and Gas Pumping Station Operators,None of the above
 Refuse and Recyclable Material Collectors,None of the above
 "Tank Car, Truck, and Ship Loaders",None of the above
 "Material Moving Workers, All Other",None of the above
-"Personal Service Managers, All Other",None of the above
-Petroleum Engineers,None of the above
+Emergency Management Directors,None of the above
+Financial Examiners,None of the above
+"Mathematical Science Occupations, All Other",None of the above
+Cartographers and Photogrammetrists,None of the above
 Calibration Technologists and Technicians,None of the above
-"Counselors, All Other",None of the above
+Hydrologists,Clean Energy
+Survey Researchers,None of the above
+Sociologists,None of the above
 Judicial Law Clerks,None of the above
-"Health Specialties Teachers, Postsecondary",Life Sciences
+"Legal Support Workers, All Other",None of the above
+"Anthropology and Archeology Teachers, Postsecondary",None of the above
+"Special Education Teachers, Preschool",None of the above
 "Artists and Related Workers, All Other",None of the above
-"Umpires, Referees, and Other Sports Officials",None of the above
-"Media and Communication Workers, All Other",None of the above
+"Dentists, General",Life Sciences
 Nurse Midwives,Life Sciences
-Emergency Medicine Physicians,Life Sciences
-General Internal Medicine Physicians,Life Sciences
-Acupuncturists,None of the above
-Medical Dosimetrists,Life Sciences
-"Protective Service Workers, All Other",None of the above
-"Grounds Maintenance Workers, All Other",None of the above
-Models,None of the above
-Floor Sanders and Finishers,None of the above
-Solar Photovoltaic Installers,Clean Energy
+Neurologists,Life Sciences
+Psychiatrists,Life Sciences
+"Healthcare Diagnosing or Treating Practitioners, All Other",Life Sciences
+Health Information Technologists and Medical Registrars,Life Sciences
+"Gambling Service Workers, All Other",None of the above
+Desktop Publishers,None of the above
+"Office Machine Operators, Except Computer",None of the above
+Pile Driver Operators,None of the above
+"Helpers, Construction Trades, All Other",None of the above
 Miscellaneous Construction and Related Workers,None of the above
-"Derrick Operators, Oil and Gas",None of the above
-"Rotary Drill Operators, Oil and Gas",None of the above
 "Underground Mining Machine Operators, All Other",None of the above
 Helpers--Extraction Workers,None of the above
-"Extraction Workers, All Other",None of the above
-Commercial Divers,None of the above
-Passenger Attendants,None of the above
+"Radio, Cellular, and Tower Equipment Installers and Repairers",Information Technology
+Bicycle Repairers,None of the above
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",None of the above
+Passenger Attendants,Aerospace and Defense
 "Transportation Workers, All Other",None of the above
 Gambling Managers,None of the above
 "Agents and Business Managers of Artists, Performers, and Athletes",None of the above
 "Insurance Appraisers, Auto Damage",None of the above
-Bioengineers and Biomedical Engineers,Bio-tech
-"Drafters, All Other",None of the above
-Astronomers,None of the above
-Survey Researchers,None of the above
-Sociologists,None of the above
-Geographers,None of the above
+Astronomers,Aerospace and Defense
 Political Scientists,None of the above
-Food Science Technicians,Life Sciences
+Agricultural Technicians,None of the above
 Hydrologic Technicians,None of the above
-Social Science Research Assistants,None of the above
 "Religious Workers, All Other",None of the above
-"Arbitrators, Mediators, and Conciliators",None of the above
 "Geography Teachers, Postsecondary",None of the above
 "Social Sciences Teachers, Postsecondary, All Other",None of the above
 "Fine Artists, Including Painters, Sculptors, and Illustrators",None of the above
 Fashion Designers,None of the above
-"Designers, All Other",None of the above
-Actors,None of the above
+Set and Exhibit Designers,None of the above
+"Umpires, Referees, and Other Sports Officials",None of the above
+Dancers,None of the above
 "Disc Jockeys, Except Radio",None of the above
 "Entertainers and Performers, Sports and Related Workers, All Other",None of the above
-Pediatric Surgeons,Life Sciences
+Sound Engineering Technicians,None of the above
+"Dentists, All Other Specialists",Life Sciences
+"Physicians, Pathologists",Life Sciences
+Radiologists,Life Sciences
+Acupuncturists,Life Sciences
+Medical Dosimetrists,Life Sciences
+Dietetic Technicians,Life Sciences
 Genetic Counselors,Life Sciences
+"Cooks, All Other",None of the above
 Gambling Dealers,None of the above
-Costume Attendants,None of the above
+Gambling and Sports Book Writers and Runners,None of the above
+Motion Picture Projectionists,None of the above
 Gambling Change Persons and Booth Cashiers,None of the above
+Models,None of the above
 Gambling Cage Workers,None of the above
+Correspondence Clerks,None of the above
 Statistical Assistants,None of the above
-Agricultural Inspectors,None of the above
 "Agricultural Workers, All Other",None of the above
 Tapers,None of the above
 Plasterers and Stucco Masons,None of the above
-"Loading and Moving Machine Operators, Underground Mining",None of the above
-"Electronic Equipment Installers and Repairers, Motor Vehicles",None of the above
+Solar Photovoltaic Installers,Clean Energy
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",None of the above
+Rail-Track Laying and Maintenance Equipment Operators,None of the above
+Camera and Photographic Equipment Repairers,None of the above
 Wind Turbine Service Technicians,Clean Energy
+Commercial Divers,None of the above
 Signal and Track Switch Repairers,None of the above
-Engine and Other Machine Assemblers,None of the above
-Shoe and Leather Workers and Repairers,None of the above
 Medical Appliance Technicians,Life Sciences
-Semiconductor Processing Technicians,None of the above
+"Painting, Coating, and Decorating Workers",None of the above
+Semiconductor Processing Technicians,Information Technology
+Tire Builders,None of the above
 Flight Attendants,Aerospace and Defense
 Taxi Drivers,None of the above
 Railroad Conductors and Yardmasters,None of the above
-Subway and Streetcar Operators,None of the above
 "Farmers, Ranchers, and Other Agricultural Managers",None of the above
 Agricultural Engineers,None of the above
 Animal Scientists,Life Sciences
-"Building Cleaning Workers, All Other",None of the above
+"Designers, All Other",None of the above
+"Media and Communication Workers, All Other",None of the above
 Forest and Conservation Workers,None of the above
 "Rock Splitters, Quarry",None of the above
-Wellhead Pumpers,None of the above
+"Extraction Workers, All Other",None of the above
+Wellhead Pumpers,Clean Energy
+"Personal Service Managers, All Other",None of the above
 Farm Labor Contractors,None of the above
 Mathematicians,None of the above
+Marine Engineers and Naval Architects,Aerospace and Defense
 Materials Scientists,None of the above
-Industrial-Organizational Psychologists,None of the above
-Historians,None of the above
-Dancers,None of the above
-Choreographers,None of the above
+Geographers,None of the above
 Lighting Technicians,None of the above
-Oral and Maxillofacial Surgeons,Life Sciences
-Occupational Therapy Aides,None of the above
+Occupational Therapy Aides,Life Sciences
+Transit and Railroad Police,None of the above
 "Cooks, Private Household",None of the above
-Gambling and Sports Book Writers and Runners,None of the above
-Motion Picture Projectionists,None of the above
-"Entertainment Attendants and Related Workers, All Other",None of the above
+"Building Cleaning Workers, All Other",None of the above
 "Makeup Artists, Theatrical and Performance",None of the above
 "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",None of the above
 Telephone Operators,None of the above
-"Communications Equipment Operators, All Other",None of the above
+"Communications Equipment Operators, All Other",Information Technology
 Proofreaders and Copy Markers,None of the above
-Animal Breeders,None of the above
-Stonemasons,None of the above
+"Logging Workers, All Other",None of the above
 Terrazzo Workers and Finishers,None of the above
-Pile Driver Operators,None of the above
-Camera and Photographic Equipment Repairers,None of the above
+Paperhangers,None of the above
+Watch and Clock Repairers,None of the above
 "Model Makers, Metal and Plastic",None of the above
 Shoe Machine Operators and Tenders,None of the above
+"Sewers, Hand",None of the above
 Fabric and Apparel Patternmakers,None of the above
+Subway and Streetcar Operators,None of the above
 "Rail Transportation Workers, All Other",None of the above
-"Forestry and Conservation Science Teachers, Postsecondary",None of the above
-"Roof Bolters, Mining",None of the above
-Transit and Railroad Police,None of the above
+Motorboat Operators,None of the above
+Floor Sanders and Finishers,None of the above
+Hoist and Winch Operators,None of the above
+Pediatric Surgeons,Life Sciences
 "Model Makers, Wood",None of the above
+Industrial-Organizational Psychologists,None of the above
 Timing Device Assemblers and Adjusters,None of the above
 "Patternmakers, Wood",None of the above

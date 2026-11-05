@@ -1,7 +1,6 @@
 occupation_title
 Chief Executives
 General and Operations Managers
-Legislators
 Advertising and Promotions Managers
 Marketing Managers
 Sales Managers
@@ -31,7 +30,6 @@ Natural Sciences Managers
 Postmasters and Mail Superintendents
 "Property, Real Estate, and Community Association Managers"
 Social and Community Service Managers
-Emergency Management Directors
 Funeral Home Managers
 "Managers, All Other"
 Buyers and Purchasing Agents
@@ -57,7 +55,6 @@ Financial and Investment Analysts
 Personal Financial Advisors
 Insurance Underwriters
 Financial Risk Specialists
-Financial Examiners
 Credit Counselors
 Loan Officers
 "Tax Examiners and Collectors, and Revenue Agents"
@@ -82,12 +79,11 @@ Actuaries
 Operations Research Analysts
 Statisticians
 Data Scientists
-"Mathematical Science Occupations, All Other"
 "Architects, Except Landscape and Naval"
 Landscape Architects
-Cartographers and Photogrammetrists
 Surveyors
 Aerospace Engineers
+Bioengineers and Biomedical Engineers
 Chemical Engineers
 Civil Engineers
 Computer Hardware Engineers
@@ -96,15 +92,16 @@ Electrical Engineers
 Environmental Engineers
 "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
 Industrial Engineers
-Marine Engineers and Naval Architects
 Materials Engineers
 Mechanical Engineers
 "Mining and Geological Engineers, Including Mining Safety Engineers"
 Nuclear Engineers
+Petroleum Engineers
 "Engineers, All Other"
 Architectural and Civil Drafters
 Electrical and Electronics Drafters
 Mechanical Drafters
+"Drafters, All Other"
 Aerospace Engineering and Operations Technologists and Technicians
 Civil Engineering Technologists and Technicians
 Electrical and Electronic Engineering Technologists and Technicians
@@ -130,7 +127,6 @@ Atmospheric and Space Scientists
 Chemists
 "Environmental Scientists and Specialists, Including Health"
 "Geoscientists, Except Hydrologists and Geographers"
-Hydrologists
 "Physical Scientists, All Other"
 Economists
 Clinical and Counseling Psychologists
@@ -138,13 +134,15 @@ School Psychologists
 "Psychologists, All Other"
 Urban and Regional Planners
 Anthropologists and Archeologists
+Historians
 "Social Scientists and Related Workers, All Other"
-Agricultural Technicians
+Food Science Technicians
 Biological Technicians
 Chemical Technicians
 "Environmental Science and Protection Technicians, Including Health"
 "Geological Technicians, Except Hydrologic Technicians"
 Nuclear Technicians
+Social Science Research Assistants
 Forest and Conservation Technicians
 Forensic Science Technicians
 "Life, Physical, and Social Science Technicians, All Other"
@@ -154,6 +152,7 @@ Occupational Health and Safety Technicians
 Marriage and Family Therapists
 Rehabilitation Counselors
 "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
+"Counselors, All Other"
 "Child, Family, and School Social Workers"
 Healthcare Social Workers
 Mental Health and Substance Abuse Social Workers
@@ -167,10 +166,10 @@ Clergy
 "Directors, Religious Activities and Education"
 Lawyers
 "Administrative Law Judges, Adjudicators, and Hearing Officers"
+"Arbitrators, Mediators, and Conciliators"
 "Judges, Magistrate Judges, and Magistrates"
 Paralegals and Legal Assistants
 "Title Examiners, Abstractors, and Searchers"
-"Legal Support Workers, All Other"
 "Business Teachers, Postsecondary"
 "Computer Science Teachers, Postsecondary"
 "Mathematical Science Teachers, Postsecondary"
@@ -178,16 +177,17 @@ Paralegals and Legal Assistants
 "Engineering Teachers, Postsecondary"
 "Agricultural Sciences Teachers, Postsecondary"
 "Biological Science Teachers, Postsecondary"
+"Forestry and Conservation Science Teachers, Postsecondary"
 "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
 "Chemistry Teachers, Postsecondary"
 "Environmental Science Teachers, Postsecondary"
 "Physics Teachers, Postsecondary"
-"Anthropology and Archeology Teachers, Postsecondary"
 "Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
 "Economics Teachers, Postsecondary"
 "Political Science Teachers, Postsecondary"
 "Psychology Teachers, Postsecondary"
 "Sociology Teachers, Postsecondary"
+"Health Specialties Teachers, Postsecondary"
 "Nursing Instructors and Teachers, Postsecondary"
 "Education Teachers, Postsecondary"
 "Library Science Teachers, Postsecondary"
@@ -211,7 +211,6 @@ Paralegals and Legal Assistants
 "Career/Technical Education Teachers, Middle School"
 "Secondary School Teachers, Except Special and Career/Technical Education"
 "Career/Technical Education Teachers, Secondary School"
-"Special Education Teachers, Preschool"
 "Special Education Teachers, Kindergarten and Elementary School"
 "Special Education Teachers, Middle School"
 "Special Education Teachers, Secondary School"
@@ -239,10 +238,11 @@ Floral Designers
 Graphic Designers
 Interior Designers
 Merchandise Displayers and Window Trimmers
-Set and Exhibit Designers
+Actors
 Producers and Directors
 Athletes and Sports Competitors
 Coaches and Scouts
+Choreographers
 Music Directors and Composers
 Musicians and Singers
 Broadcast Announcers and Radio Disc Jockeys
@@ -255,15 +255,13 @@ Interpreters and Translators
 Court Reporters and Simultaneous Captioners
 Audio and Video Technicians
 Broadcast Technicians
-Sound Engineering Technicians
 Photographers
 "Camera Operators, Television, Video, and Film"
 Film and Video Editors
 "Media and Communication Equipment Workers, All Other"
 Chiropractors
-"Dentists, General"
+Oral and Maxillofacial Surgeons
 Orthodontists
-"Dentists, All Other Specialists"
 Dietitians and Nutritionists
 Optometrists
 Pharmacists
@@ -285,19 +283,16 @@ Audiologists
 Anesthesiologists
 Cardiologists
 Dermatologists
+Emergency Medicine Physicians
 Family Medicine Physicians
-Neurologists
+General Internal Medicine Physicians
 Obstetricians and Gynecologists
 "Pediatricians, General"
-"Physicians, Pathologists"
-Psychiatrists
-Radiologists
 "Physicians, All Other"
 "Ophthalmologists, Except Pediatric"
 "Orthopedic Surgeons, Except Pediatric"
 "Surgeons, All Other"
 Dental Hygienists
-"Healthcare Diagnosing or Treating Practitioners, All Other"
 Clinical Laboratory Technologists and Technicians
 Cardiovascular Technologists and Technicians
 Diagnostic Medical Sonographers
@@ -306,7 +301,6 @@ Radiologic Technologists and Technicians
 Magnetic Resonance Imaging Technologists
 Emergency Medical Technicians
 Paramedics
-Dietetic Technicians
 Pharmacy Technicians
 Psychiatric Technicians
 Surgical Technologists
@@ -318,7 +312,6 @@ Medical Records Specialists
 Orthotists and Prosthetists
 Hearing Aid Specialists
 "Health Technologists and Technicians, All Other"
-Health Information Technologists and Medical Registrars
 Athletic Trainers
 Surgical Assistants
 "Healthcare Practitioners and Technical Workers, All Other"
@@ -360,13 +353,13 @@ Crossing Guards and Flaggers
 "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
 Transportation Security Screeners
 School Bus Monitors
+"Protective Service Workers, All Other"
 Chefs and Head Cooks
 First-Line Supervisors of Food Preparation and Serving Workers
 "Cooks, Fast Food"
 "Cooks, Institution and Cafeteria"
 "Cooks, Restaurant"
 "Cooks, Short Order"
-"Cooks, All Other"
 Food Preparation Workers
 Bartenders
 Fast Food and Counter Workers
@@ -384,15 +377,17 @@ Pest Control Workers
 Landscaping and Groundskeeping Workers
 "Pesticide Handlers, Sprayers, and Applicators, Vegetation"
 Tree Trimmers and Pruners
+"Grounds Maintenance Workers, All Other"
 First-Line Supervisors of Gambling Services Workers
 "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services"
 First-Line Supervisors of Personal Service Workers
 Animal Trainers
 Animal Caretakers
-"Gambling Service Workers, All Other"
 "Ushers, Lobby Attendants, and Ticket Takers"
 Amusement and Recreation Attendants
+Costume Attendants
 "Locker Room, Coatroom, and Dressing Room Attendants"
+"Entertainment Attendants and Related Workers, All Other"
 Embalmers
 Crematory Operators
 Funeral Attendants
@@ -439,7 +434,6 @@ Procurement Clerks
 Tellers
 "Financial Clerks, All Other"
 Brokerage Clerks
-Correspondence Clerks
 "Court, Municipal, and License Clerks"
 "Credit Authorizers, Checkers, and Clerks"
 Customer Service Representatives
@@ -472,13 +466,13 @@ Medical Secretaries and Administrative Assistants
 "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
 Data Entry Keyers
 Word Processors and Typists
-Desktop Publishers
 Insurance Claims and Policy Processing Clerks
 "Mail Clerks and Mail Machine Operators, Except Postal Service"
 "Office Clerks, General"
-"Office Machine Operators, Except Computer"
 "Office and Administrative Support Workers, All Other"
 "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+Agricultural Inspectors
+Animal Breeders
 "Graders and Sorters, Agricultural Products"
 Agricultural Equipment Operators
 "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
@@ -486,10 +480,10 @@ Agricultural Equipment Operators
 Fallers
 Logging Equipment Operators
 Log Graders and Scalers
-"Logging Workers, All Other"
 First-Line Supervisors of Construction Trades and Extraction Workers
 Boilermakers
 Brickmasons and Blockmasons
+Stonemasons
 Carpenters
 Carpet Installers
 "Floor Layers, Except Carpet, Wood, and Hard Tiles"
@@ -504,7 +498,6 @@ Glaziers
 "Insulation Workers, Floor, Ceiling, and Wall"
 "Insulation Workers, Mechanical"
 "Painters, Construction and Maintenance"
-Paperhangers
 Pipelayers
 "Plumbers, Pipefitters, and Steamfitters"
 Reinforcing Iron and Rebar Workers
@@ -514,32 +507,33 @@ Structural Iron and Steel Workers
 "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
 Helpers--Carpenters
 Helpers--Electricians
-"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
 "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
 Helpers--Roofers
-"Helpers, Construction Trades, All Other"
 Construction and Building Inspectors
 Elevator and Escalator Installers and Repairers
 Fence Erectors
 Hazardous Materials Removal Workers
 Highway Maintenance Workers
-Rail-Track Laying and Maintenance Equipment Operators
 Septic Tank Servicers and Sewer Pipe Cleaners
+"Derrick Operators, Oil and Gas"
+"Rotary Drill Operators, Oil and Gas"
 "Service Unit Operators, Oil and Gas"
 "Excavating and Loading Machine and Dragline Operators, Surface Mining"
 "Earth Drillers, Except Oil and Gas"
 "Explosives Workers, Ordnance Handling Experts, and Blasters"
 Continuous Mining Machine Operators
+"Roof Bolters, Mining"
+"Loading and Moving Machine Operators, Underground Mining"
 "Roustabouts, Oil and Gas"
 "First-Line Supervisors of Mechanics, Installers, and Repairers"
 "Computer, Automated Teller, and Office Machine Repairers"
-"Radio, Cellular, and Tower Equipment Installers and Repairers"
 "Telecommunications Equipment Installers and Repairers, Except Line Installers"
 Avionics Technicians
 "Electric Motor, Power Tool, and Related Repairers"
 "Electrical and Electronics Installers and Repairers, Transportation Equipment"
 "Electrical and Electronics Repairers, Commercial and Industrial Equipment"
 "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+"Electronic Equipment Installers and Repairers, Motor Vehicles"
 Audiovisual Equipment Installers and Repairers
 Security and Fire Alarm Systems Installers
 Aircraft Mechanics and Service Technicians
@@ -553,7 +547,6 @@ Rail Car Repairers
 Motorboat Mechanics and Service Technicians
 Motorcycle Mechanics
 Outdoor Power Equipment and Other Small Engine Mechanics
-Bicycle Repairers
 Recreational Vehicle Service Technicians
 Tire Repairers and Changers
 Mechanical Door Repairers
@@ -568,7 +561,6 @@ Electrical Power-Line Installers and Repairers
 Telecommunications Line Installers and Repairers
 Medical Equipment Repairers
 Musical Instrument Repairers and Tuners
-Watch and Clock Repairers
 "Precision Instrument and Equipment Repairers, All Other"
 "Maintenance and Repair Workers, General"
 "Coin, Vending, and Amusement Machine Servicers and Repairers"
@@ -581,6 +573,7 @@ First-Line Supervisors of Production and Operating Workers
 "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
 "Coil Winders, Tapers, and Finishers"
 "Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers"
+Engine and Other Machine Assemblers
 Structural Metal Fabricators and Fitters
 Fiberglass Laminators and Fabricators
 Miscellaneous Assemblers and Fabricators
@@ -588,7 +581,6 @@ Bakers
 Butchers and Meat Cutters
 "Meat, Poultry, and Fish Cutters and Trimmers"
 Slaughterers and Meat Packers
-"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
 Food Batchmakers
 Food Cooking Machine Operators and Tenders
 "Food Processing Workers, All Other"
@@ -621,7 +613,7 @@ Print Binding and Finishing Workers
 Laundry and Dry-Cleaning Workers
 "Pressers, Textile, Garment, and Related Materials"
 Sewing Machine Operators
-"Sewers, Hand"
+Shoe and Leather Workers and Repairers
 "Tailors, Dressmakers, and Custom Sewers"
 Textile Bleaching and Dyeing Machine Operators and Tenders
 "Textile Cutting Machine Setters, Operators, and Tenders"
@@ -658,7 +650,6 @@ Jewelers and Precious Stone and Metal Workers
 Dental Laboratory Technicians
 Ophthalmic Laboratory Technicians
 Packaging and Filling Machine Operators and Tenders
-"Painting, Coating, and Decorating Workers"
 "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
 Photographic Process Workers and Processing Machine Operators
 Computer Numerically Controlled Tool Operators
@@ -669,7 +660,6 @@ Cooling and Freezing Equipment Operators and Tenders
 Etchers and Engravers
 "Molders, Shapers, and Casters, Except Metal and Plastic"
 "Paper Goods Machine Setters, Operators, and Tenders"
-Tire Builders
 Helpers--Production Workers
 "Production Workers, All Other"
 Aircraft Cargo Handling Supervisors
@@ -691,7 +681,6 @@ Locomotive Engineers
 "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
 Sailors and Marine Oilers
 "Captains, Mates, and Pilots of Water Vessels"
-Motorboat Operators
 Ship Engineers
 Bridge and Lock Tenders
 Parking Attendants
@@ -702,7 +691,6 @@ Transportation Inspectors
 Conveyor Operators and Tenders
 Crane and Tower Operators
 Dredge Operators
-Hoist and Winch Operators
 Industrial Truck and Tractor Operators
 Cleaners of Vehicles and Equipment
 "Laborers and Freight, Stock, and Material Movers, Hand"
@@ -714,118 +702,129 @@ Gas Compressor and Gas Pumping Station Operators
 Refuse and Recyclable Material Collectors
 "Tank Car, Truck, and Ship Loaders"
 "Material Moving Workers, All Other"
-"Personal Service Managers, All Other"
-Petroleum Engineers
+Emergency Management Directors
+Financial Examiners
+"Mathematical Science Occupations, All Other"
+Cartographers and Photogrammetrists
 Calibration Technologists and Technicians
-"Counselors, All Other"
+Hydrologists
+Survey Researchers
+Sociologists
 Judicial Law Clerks
-"Health Specialties Teachers, Postsecondary"
+"Legal Support Workers, All Other"
+"Anthropology and Archeology Teachers, Postsecondary"
+"Special Education Teachers, Preschool"
 "Artists and Related Workers, All Other"
-"Umpires, Referees, and Other Sports Officials"
-"Media and Communication Workers, All Other"
+"Dentists, General"
 Nurse Midwives
-Emergency Medicine Physicians
-General Internal Medicine Physicians
-Acupuncturists
-Medical Dosimetrists
-"Protective Service Workers, All Other"
-"Grounds Maintenance Workers, All Other"
-Models
-Floor Sanders and Finishers
-Solar Photovoltaic Installers
+Neurologists
+Psychiatrists
+"Healthcare Diagnosing or Treating Practitioners, All Other"
+Health Information Technologists and Medical Registrars
+"Gambling Service Workers, All Other"
+Desktop Publishers
+"Office Machine Operators, Except Computer"
+Pile Driver Operators
+"Helpers, Construction Trades, All Other"
 Miscellaneous Construction and Related Workers
-"Derrick Operators, Oil and Gas"
-"Rotary Drill Operators, Oil and Gas"
 "Underground Mining Machine Operators, All Other"
 Helpers--Extraction Workers
-"Extraction Workers, All Other"
-Commercial Divers
+"Radio, Cellular, and Tower Equipment Installers and Repairers"
+Bicycle Repairers
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
 Passenger Attendants
 "Transportation Workers, All Other"
 Gambling Managers
 "Agents and Business Managers of Artists, Performers, and Athletes"
 "Insurance Appraisers, Auto Damage"
-Bioengineers and Biomedical Engineers
-"Drafters, All Other"
 Astronomers
-Survey Researchers
-Sociologists
-Geographers
 Political Scientists
-Food Science Technicians
+Agricultural Technicians
 Hydrologic Technicians
-Social Science Research Assistants
 "Religious Workers, All Other"
-"Arbitrators, Mediators, and Conciliators"
 "Geography Teachers, Postsecondary"
 "Social Sciences Teachers, Postsecondary, All Other"
 "Fine Artists, Including Painters, Sculptors, and Illustrators"
 Fashion Designers
-"Designers, All Other"
-Actors
+Set and Exhibit Designers
+"Umpires, Referees, and Other Sports Officials"
+Dancers
 "Disc Jockeys, Except Radio"
 "Entertainers and Performers, Sports and Related Workers, All Other"
-Pediatric Surgeons
+Sound Engineering Technicians
+"Dentists, All Other Specialists"
+"Physicians, Pathologists"
+Radiologists
+Acupuncturists
+Medical Dosimetrists
+Dietetic Technicians
 Genetic Counselors
+"Cooks, All Other"
 Gambling Dealers
-Costume Attendants
+Gambling and Sports Book Writers and Runners
+Motion Picture Projectionists
 Gambling Change Persons and Booth Cashiers
+Models
 Gambling Cage Workers
+Correspondence Clerks
 Statistical Assistants
-Agricultural Inspectors
 "Agricultural Workers, All Other"
 Tapers
 Plasterers and Stucco Masons
-"Loading and Moving Machine Operators, Underground Mining"
-"Electronic Equipment Installers and Repairers, Motor Vehicles"
+Solar Photovoltaic Installers
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+Rail-Track Laying and Maintenance Equipment Operators
+Camera and Photographic Equipment Repairers
 Wind Turbine Service Technicians
+Commercial Divers
 Signal and Track Switch Repairers
-Engine and Other Machine Assemblers
-Shoe and Leather Workers and Repairers
 Medical Appliance Technicians
+"Painting, Coating, and Decorating Workers"
 Semiconductor Processing Technicians
+Tire Builders
 Flight Attendants
 Taxi Drivers
 Railroad Conductors and Yardmasters
-Subway and Streetcar Operators
 "Farmers, Ranchers, and Other Agricultural Managers"
 Agricultural Engineers
 Animal Scientists
-"Building Cleaning Workers, All Other"
+"Designers, All Other"
+"Media and Communication Workers, All Other"
 Forest and Conservation Workers
 "Rock Splitters, Quarry"
+"Extraction Workers, All Other"
 Wellhead Pumpers
+"Personal Service Managers, All Other"
 Farm Labor Contractors
 Mathematicians
+Marine Engineers and Naval Architects
 Materials Scientists
-Industrial-Organizational Psychologists
-Historians
-Dancers
-Choreographers
+Geographers
 Lighting Technicians
-Oral and Maxillofacial Surgeons
 Occupational Therapy Aides
+Transit and Railroad Police
 "Cooks, Private Household"
-Gambling and Sports Book Writers and Runners
-Motion Picture Projectionists
-"Entertainment Attendants and Related Workers, All Other"
+"Building Cleaning Workers, All Other"
 "Makeup Artists, Theatrical and Performance"
 "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
 Telephone Operators
 "Communications Equipment Operators, All Other"
 Proofreaders and Copy Markers
-Animal Breeders
-Stonemasons
+"Logging Workers, All Other"
 Terrazzo Workers and Finishers
-Pile Driver Operators
-Camera and Photographic Equipment Repairers
+Paperhangers
+Watch and Clock Repairers
 "Model Makers, Metal and Plastic"
 Shoe Machine Operators and Tenders
+"Sewers, Hand"
 Fabric and Apparel Patternmakers
+Subway and Streetcar Operators
 "Rail Transportation Workers, All Other"
-"Forestry and Conservation Science Teachers, Postsecondary"
-"Roof Bolters, Mining"
-Transit and Railroad Police
+Motorboat Operators
+Floor Sanders and Finishers
+Hoist and Winch Operators
+Pediatric Surgeons
 "Model Makers, Wood"
+Industrial-Organizational Psychologists
 Timing Device Assemblers and Adjusters
 "Patternmakers, Wood"
