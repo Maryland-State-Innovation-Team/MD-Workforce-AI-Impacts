@@ -1,0 +1,7 @@
+threshold,occupations_high_ai_exposure,maryland_pct,maryland_rank,all_areas_pct,dc_pct,top_5_areas
+0.5,330,0.4814,2,0.4241,0.6558,District of Columbia; Maryland; Massachusetts; Colorado; Virginia
+0.6,230,0.4031,2,0.351,0.6067,District of Columbia; Maryland; Virginia; Massachusetts; Colorado
+0.667,188,0.3339,4,0.3001,0.4751,District of Columbia; Colorado; Virginia; Maryland; Washington
+0.7,161,0.3051,4,0.2702,0.4256,District of Columbia; Colorado; Virginia; Maryland; Washington
+0.75,146,0.2966,4,0.2611,0.4139,District of Columbia; Colorado; Virginia; Maryland; Washington
+0.8,113,0.2433,5,0.2158,0.3318,District of Columbia; Colorado; Virginia; Washington; Maryland
